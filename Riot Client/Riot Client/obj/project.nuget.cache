@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o4FiZ6SyaAmB0GM6KjplcAR01X/pag6xYtravRSN1xmEjhG+bJ7HxCfc7hJ3Uqyb/0tBuHkhL4RbM0rvGWIXSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gerce\\source\\repos\\Riot Client\\Riot Client\\Riot Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gerce\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

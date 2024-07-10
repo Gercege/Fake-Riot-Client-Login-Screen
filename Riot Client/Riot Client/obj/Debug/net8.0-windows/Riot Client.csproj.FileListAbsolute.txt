@@ -1,0 +1,20 @@
+C:\Users\Gerce\source\repos\Riot Client\Riot Client\bin\Debug\net8.0-windows\Riot Client.exe
+C:\Users\Gerce\source\repos\Riot Client\Riot Client\bin\Debug\net8.0-windows\Riot Client.deps.json
+C:\Users\Gerce\source\repos\Riot Client\Riot Client\bin\Debug\net8.0-windows\Riot Client.runtimeconfig.json
+C:\Users\Gerce\source\repos\Riot Client\Riot Client\bin\Debug\net8.0-windows\Riot Client.dll
+C:\Users\Gerce\source\repos\Riot Client\Riot Client\bin\Debug\net8.0-windows\Riot Client.pdb
+C:\Users\Gerce\source\repos\Riot Client\Riot Client\obj\Debug\net8.0-windows\Riot_Client.Form1.resources
+C:\Users\Gerce\source\repos\Riot Client\Riot Client\obj\Debug\net8.0-windows\Riot Client.csproj.GenerateResource.cache
+C:\Users\Gerce\source\repos\Riot Client\Riot Client\obj\Debug\net8.0-windows\Riot Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gerce\source\repos\Riot Client\Riot Client\obj\Debug\net8.0-windows\Riot Client.AssemblyInfoInputs.cache
+C:\Users\Gerce\source\repos\Riot Client\Riot Client\obj\Debug\net8.0-windows\Riot Client.AssemblyInfo.cs
+C:\Users\Gerce\source\repos\Riot Client\Riot Client\obj\Debug\net8.0-windows\Riot Client.csproj.CoreCompileInputs.cache
+C:\Users\Gerce\source\repos\Riot Client\Riot Client\obj\Debug\net8.0-windows\Riot Client.dll
+C:\Users\Gerce\source\repos\Riot Client\Riot Client\obj\Debug\net8.0-windows\refint\Riot Client.dll
+C:\Users\Gerce\source\repos\Riot Client\Riot Client\obj\Debug\net8.0-windows\Riot Client.pdb
+C:\Users\Gerce\source\repos\Riot Client\Riot Client\obj\Debug\net8.0-windows\Riot Client.genruntimeconfig.cache
+C:\Users\Gerce\source\repos\Riot Client\Riot Client\obj\Debug\net8.0-windows\ref\Riot Client.dll
+C:\Users\Gerce\source\repos\Riot Client\Riot Client\obj\Debug\net8.0-windows\Riot_Client.Properties.Resources.resources
+C:\Users\Gerce\source\repos\Riot Client\Riot Client\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Gerce\source\repos\Riot Client\Riot Client\obj\Debug\net8.0-windows\Riot Client.csproj.AssemblyReference.cache
+C:\Users\Gerce\source\repos\Riot Client\Riot Client\obj\Debug\net8.0-windows\Riot Cli.8570819F.Up2Date

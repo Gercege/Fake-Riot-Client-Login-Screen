@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Riot Client", "Riot Client\Riot Client.csproj", "{49C74C63-6CE7-4D0E-A68F-89F6B89C6B2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49C74C63-6CE7-4D0E-A68F-89F6B89C6B2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C74C63-6CE7-4D0E-A68F-89F6B89C6B2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C74C63-6CE7-4D0E-A68F-89F6B89C6B2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C74C63-6CE7-4D0E-A68F-89F6B89C6B2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD07CA36-BE03-47D2-970F-8F22F29774B3}
+	EndGlobalSection
+EndGlobal
